@@ -1,0 +1,11 @@
+C:\Hardik\C#\MySuperBank\MySuperBank\obj\Debug\netcoreapp2.1\MySuperBank.csprojAssemblyReference.cache
+C:\Hardik\C#\MySuperBank\MySuperBank\obj\Debug\netcoreapp2.1\MySuperBank.csproj.CoreCompileInputs.cache
+C:\Hardik\C#\MySuperBank\MySuperBank\obj\Debug\netcoreapp2.1\MySuperBank.AssemblyInfoInputs.cache
+C:\Hardik\C#\MySuperBank\MySuperBank\obj\Debug\netcoreapp2.1\MySuperBank.AssemblyInfo.cs
+C:\Hardik\C#\MySuperBank\MySuperBank\bin\Debug\netcoreapp2.1\MySuperBank.deps.json
+C:\Hardik\C#\MySuperBank\MySuperBank\bin\Debug\netcoreapp2.1\MySuperBank.runtimeconfig.json
+C:\Hardik\C#\MySuperBank\MySuperBank\bin\Debug\netcoreapp2.1\MySuperBank.runtimeconfig.dev.json
+C:\Hardik\C#\MySuperBank\MySuperBank\bin\Debug\netcoreapp2.1\MySuperBank.dll
+C:\Hardik\C#\MySuperBank\MySuperBank\bin\Debug\netcoreapp2.1\MySuperBank.pdb
+C:\Hardik\C#\MySuperBank\MySuperBank\obj\Debug\netcoreapp2.1\MySuperBank.dll
+C:\Hardik\C#\MySuperBank\MySuperBank\obj\Debug\netcoreapp2.1\MySuperBank.pdb
